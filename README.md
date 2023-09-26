@@ -1,32 +1,20 @@
 ## Screenshots
 
 ### Login Page
+<img src="https://github.com/Shreyash-kant/SpotifyClone/assets/108665847/3b20d4b5-3875-425a-9c1e-4ccf641814b0" alt="Image Description" width="600" height="300">
 
-<div>
-<img src="./src/assets/LoginPage.PNG" alt="Login Page" height="200px" width="300px" />
-</div>
-<!-- ![Login Page](./src/assets/LoginPage.PNG) -->
+
 
 ### Login Popup window
 
-<div>
-<img src="./src/assets/LoginPopup.PNG" alt="Login Page" height="290px" width="300px" />
-</div>
+<img src="https://github.com/Shreyash-kant/SpotifyClone/assets/108665847/d9fe573b-e223-4245-a094-884065d3855e" alt="Image Description" width="400" height="400">
 
-<!-- ![Login Pop-up window](./src/assets/LoginPopup.PNG) -->
 
 ### Permission
 
-<div>
-<img src="./src/assets/PermissionPage.PNG" alt="Login Page" height="300px" width="220px" />
-</div>
-
-<!-- ![Permission](./src/assets/PermissionPage.PNG) -->
+<img src="https://github.com/Shreyash-kant/SpotifyClone/assets/108665847/292d8b61-df91-4806-8387-d965ad8adaf5" alt="Image Description" width="300" height="400">
 
 ### Dashboard
+<img src="https://github.com/Shreyash-kant/SpotifyClone/assets/108665847/d62e9534-c66a-49fb-84e1-f639b77cabe3" alt="Image Description" width="500" height="300">
 
-<div>
-<img src="./src/assets/Dashboard.PNG" alt="Login Page" height="200px" width="400px" />
-</div>
 
-<!-- ![Dashboard](./src/assets/Dashboard.PNG) -->
